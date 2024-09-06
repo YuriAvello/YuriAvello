@@ -11,7 +11,7 @@
 
 <h4>🌱 I’m currently learning ...</h4>
 
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity))
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 <h2>🚀 Development Plan</h2>
 <h4>📜 Certificate</h4>
