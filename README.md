@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>IDS</b>
-  - [Snort local rule to detect slow rate Hydra attack](https://github.com/yuriavello/PROJECTURL)
+  - [Snort local rule to detect slow rate Hydra attack](https://github.com/YuriAvello/SnortHydraDetection)
  
 
 <h2>📜 Certificate</h2>
