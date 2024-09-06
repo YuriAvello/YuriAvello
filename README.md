@@ -36,7 +36,7 @@
 [<img align="left" alt="YuriAvello | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.8.0/icons/gmail.svg" />][gmail]
 
 [linkedin]: https://linkedin.com/in/yuriavello/
-[gmail]: mailto:yuriavello@gmail.com
+[gmail]: mailto:avelloyuri@gmail.com
 
 <!--
 
